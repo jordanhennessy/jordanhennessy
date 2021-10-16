@@ -1,13 +1,10 @@
-- 👋 Hi, I’m @jordanhennessy
+- 👋 Hi, my name's Jordan
 
-- 👀 I’m interested in Java, Python, fintech, general software, statistics, data analytics, databases
+- 👀 I’m interested in all things software
 
+- 🌱 I’m currently learning Python, Java, SQL and more
 
-- 🌱 I’m currently learning Python, Java and SQL
-
-
-- 💞️ I’m looking to collaborate on software projects to further my skills
-
+- 💞️ I’m looking for an internship position in the software industry
 
 - 📫 How to reach me: hennessyjordan1@gmail.com
 
