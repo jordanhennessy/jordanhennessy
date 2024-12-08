@@ -1,4 +1,4 @@
-- Final year student in UCD
+- Associate Software Engineer @ Yahoo
 - Experience working with Java Spring Microservices 
 - Database experience
 - Languages: Java, Python, Kotlin, SQL
